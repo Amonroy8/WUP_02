@@ -38,6 +38,9 @@ veggy <- cabbages
 ```{r}
 boxplot(VitC~Cult,data=veggy)
 ```
+```
+The bottom of the box c52 is in higher position than box c39 if I move them into the same column they would not f I took box c52 and moved it to the left they would not bump into eachother because box c52 is higher than than box c39. 
+```
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
